@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debajit Datta](https://github.com/debajitdatta2k)
+- Place: Kolkata, India
+- Bio: Web developer 
+- Github: [Debajit Datta](https://github.com/debajitdatta2ks)
